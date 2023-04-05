@@ -1,0 +1,57 @@
+body {
+    margin:30px;
+   padding: 15px;
+  }
+  
+  #main {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background: #eee;
+  }
+  
+  #title {
+    margin: 2.5rem;
+    font-weight: bolder;
+    
+  }
+  
+  #img-div {
+   text-align:center;
+  
+  }
+  #img-caption {
+    font-size: 20px; 
+     margin-bottom: 2rem;
+    
+  }
+  
+  
+  #image {
+    max-width:80%;
+  height: auto;
+  text-align: center;
+  }
+  
+  #tribute-info {
+   margin-bottom: 3rem;
+   width: 100%;
+   text-align:center;
+    
+  }
+  
+  #text {
+   margin: 1px 10rem;
+   text-align: justify;
+  }
+  
+  span {
+      display: block;
+      font-size: 1.17em;
+      margin-block-start: 1em;
+      margin-block-end: 1.5em;
+      font-weight: bold;
+  }
+  
+  
